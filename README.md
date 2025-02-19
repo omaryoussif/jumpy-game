@@ -1,0 +1,1 @@
+This project was a class project for my Introduction to Computer Science Fundamentals class at Reed College (CSCI 121). It is a platformer video game coded fully in Python where I and Julian Jacklin (@Julianj22) coded nearly everything (including game physics) for the project.
